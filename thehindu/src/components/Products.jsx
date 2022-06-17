@@ -10,7 +10,7 @@ const Products = () => {
       .then((d) => setData(d))
   }, []);
 
-  console.log(data.author);
+
   return (
     <div  className={homemodule.honeFront}>
       {
