@@ -1,0 +1,19 @@
+.otpMain{
+    width: 30%;
+    margin: auto;
+    border: 2px solid black;
+    height: auto;
+    padding: 30px;
+}
+.border{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    grid-template-rows: 30px;
+}
+.border div{
+    width: 20px;
+}
+
+.border div input{
+    width: 20px;
+}

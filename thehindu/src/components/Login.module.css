@@ -1,0 +1,18 @@
+.main{
+    margin-top: 100px;
+   
+}
+.input{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    border: 2px solid black;
+}
+.input div{
+    width: 100%;
+}
+.btn1{
+    text-align: center;
+    width: 95%;
+    margin: auto;
+}

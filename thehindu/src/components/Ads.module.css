@@ -1,0 +1,53 @@
+.Ads{
+    display: flex;
+}
+.AdsLeft{
+    border: 2px solid #000;
+    width: 156px;
+    height: auto;
+    margin: 1px;
+    background-color: #13360d;
+    position: fixed;
+}
+.AdsMiddle{
+    text-align: center;
+}
+.AdsMiddle h5{
+    color: white;
+}
+.AdsMiddle p{
+    color: #3bb526;
+}
+.Adsbottom{
+    justify-content:center;
+    text-align: center;
+}
+.Adsbottom button{
+    background-color: #3bb526;
+    border-radius: 5px;
+    border: 2px solid #3bb526;
+}
+.AdsMiddle{
+    border: 2px solid #000;
+    width: 80%;
+    height: auto;
+    margin: 1px;
+    background-color: #13360d;
+}
+.AdsRight{
+    border: 2px solid #014284;
+    width: 156px;
+    height: 620px;
+    margin: 1px;
+    background-color: #014284;   
+    text-align: center;
+    color: white;
+    position: fixed;
+
+}
+.bottom-ads button{
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: blue;
+}

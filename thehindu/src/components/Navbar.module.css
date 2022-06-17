@@ -1,0 +1,50 @@
+.trial{
+    text-align: center;
+    background-color: #00419b;
+    font-weight: bold;
+    color: white;
+    border: 2px solid #00419b;
+    border-radius: 5px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.subscribe{
+    text-align: center;
+    background-color: #ffc000;
+    color: black;
+    border: 2px solid #ffc000;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.subscribe:hover{
+    text-align: center;
+    background-color: #00419b;
+    color: white;
+    border: 2px solid #00419b;
+    border-radius: 5px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.login{
+    text-align: center;
+    background-color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #00419b;
+    border: 2px solid #00419b;
+    border-radius: 5px;
+}
+.login:hover{
+    text-align: center;
+    background-color: #00419b;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #fff;
+    border: 2px solid #00419b;
+    border-radius: 5px;
+   
+}
+.link{
+    text-decoration: none;
+    color: #c8c8c8;
+}

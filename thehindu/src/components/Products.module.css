@@ -1,0 +1,9 @@
+.honeFront{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.honeFront div{
+    height: 370px;
+    margin: 5px;
+}

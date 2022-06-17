@@ -1,0 +1,74 @@
+.subMain{
+    width: 90%;
+    margin: auto;
+}
+.Subscribe{
+    text-align: center;
+}
+.Subscribe img:nth-child(1){
+    height: 30px;
+}
+.Subscribe p:nth-child(1){
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.Subscribe1{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.Subscription{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.Gurddep{
+    border: 2px solid #f6f7fc;
+    height: 40vh;
+    width: 180%;
+    background-color: #f6f7fc;
+}
+.Gurddeps{
+    display: flex;
+    gap: 20px;
+    text-align: left;
+}
+.Megha{
+    border: 2px solid #f6f7fc;
+    height: 20vh;
+    width: 45%;
+    position: absolute;
+    left: 500px;
+    background-color: #f6f7fc;
+}
+.Meghas{
+    display: flex;
+    gap: 20px;
+    text-align: left;
+}
+.Why Subscription{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.Special{
+    border: 2px solid #f6f7fc;
+    height: 20vh;
+    width: 45%;
+    position: absolute;
+    background-color: #f6f7fc;
+}
+.Gurddepss{
+    bottom: 10px;
+    text-align: left;
+    position: absolute;
+}
+.img{
+    position: absolute;
+    left: 350px;
+    top: 0px;
+}
+.Contact{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+footer a{
+    text-decoration: none;
+}
